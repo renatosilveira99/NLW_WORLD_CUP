@@ -2,15 +2,6 @@
 
 ### Project created during the <strong>NLW COPA</strong> event, where a web and mobile platform was developed to create pools and make predictions for the World Cup games.
 
-<hr>
-
-<p align="center">
-  <a href="#-technologies-used">Technologies</a> - 
-  <a href="#-web-application-results">Web Application Results</a> - 
-  <a href="#-mobile-application-results">Mobile Application Results</a> - 
-  <a href="#-how-to-run">How to Run</a>
-</p>
-
 <a id="-technologies-used"></a>
 
 ## Technologies Used
@@ -30,19 +21,14 @@
 - SQLite
 - ts-node-dev
 
-<a id="-web-application-results"></a>
-
-## Web Application Results
-
-![web](./web.png)
-
-<a id="-mobile-application-results"></a>
-
-## Mobile Application Results
-
+# MOBILE
 ![mobile](./mobile.png)
 
-<a id="-how-to-run"></a>
+# WEB
+![web](./web.png)
+
+# Server
+![server](./backend.png)
 
 ## How to Run
 
@@ -107,6 +93,3 @@ For the mobile application, use:
 ```bash
 expo start
 ```
-```
-
-This version of the `README.md` focuses on the names of the technologies used and displays the results images for the mobile, web, and server applications.
